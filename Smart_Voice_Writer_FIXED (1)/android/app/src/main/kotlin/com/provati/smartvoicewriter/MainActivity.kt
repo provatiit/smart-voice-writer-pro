@@ -1,0 +1,4 @@
+
+package com.provati.smartvoicewriter
+import io.flutter.embedding.android.FlutterActivity
+class MainActivity: FlutterActivity()
